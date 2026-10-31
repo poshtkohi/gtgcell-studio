@@ -1,0 +1,8 @@
+# This public repository contains only the reviewed download-page files.
+*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/assets/
+!/assets/gtg-logo.png
+!/assets/ion-channel-artwork.png
