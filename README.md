@@ -4,9 +4,11 @@
 
 <p align="center"><strong>A Windows research workspace for ion-channel modelling</strong></p>
 
-<p align="center"><a href="https://github.com/poshtkohi/gtgcell-studio/releases/download/v0.8.13/GTG.Cell.Studio.Installer.exe"><strong>Download for Windows x64</strong></a> Â· <a href="https://www.gtgcell.com">Project website</a></p>
+<p align="center"><a href="https://github.com/poshtkohi/gtgcell-studio/releases/download/v0.8.13/GTG.Cell.Studio.Installer.exe"><strong>Download for Windows x64</strong></a> · <a href="https://www.gtgcell.com">Project website</a></p>
 
-![Ion-channel illustration](assets/ion-channel-artwork.png)
+![GTG Cell Studio workspace with model editing, scientific figures and optional Copilot](assets/studio-workspace.png)
+
+*Model definitions, experimental comparisons and scientific figures in the Studio workspace.*
 
 GTG Cell Studio brings model editing, experimental-data inspection, simulation, fitting and scientific figures into one application. The GTG research papers are currently in preparation.
 
@@ -34,7 +36,7 @@ Keep your projects outside the application directory. Updates preserve existing 
 
 ## Verify the installer
 
-Version **0.8.13** Â· **412,603,296 bytes** Â· SHA-256:
+Version **0.8.13** · **412,603,296 bytes** · SHA-256:
 
 ```text
 E5AAFB10EB08ACE90CC5823C49FDCEAE64E5C2E1A671423D0C0C8D2F59227BDA
@@ -50,6 +52,14 @@ Read [LICENSE-NOTICES.txt](https://github.com/poshtkohi/gtgcell-studio/releases/
 
 GitHub also automatically supplies archives labelled **Source code** for release tags. Those archives contain only this public download-page repository and branding files; they do not contain the GTG framework or manuals.
 
-GTG Cell Team: Dr Alireza Poshtkohi, Professor Mark L Dallas and Dr Moza Al-Owais. Direct questions to [Dr Alireza Poshtkohi](mailto:a.poshtkohi@herts.ac.uk).
+## GTG Cell Team
 
-Copyright Â© 2026 GTG Cell Team. [www.gtgcell.com](https://www.gtgcell.com)
+| Team member | Affiliation | Email |
+| --- | --- | --- |
+| **Dr Alireza Poshtkohi** | University of Hertfordshire, Hatfield, UK | [a.poshtkohi@herts.ac.uk](mailto:a.poshtkohi@herts.ac.uk) |
+| **Professor Mark L Dallas** | University of Reading, Reading, UK | [m.dallas@reading.ac.uk](mailto:m.dallas@reading.ac.uk) |
+| **Dr Moza Al-Owais** | University of Leeds, Leeds, UK | [m.al-owais@leeds.ac.uk](mailto:m.al-owais@leeds.ac.uk) |
+
+Please direct questions about GTG Cell Studio and installation access to **Dr Alireza Poshtkohi** at [a.poshtkohi@herts.ac.uk](mailto:a.poshtkohi@herts.ac.uk).
+
+Copyright © 2026 GTG Cell Team. [www.gtgcell.com](https://www.gtgcell.com)
