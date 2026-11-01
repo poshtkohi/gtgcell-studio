@@ -22,13 +22,15 @@ Limited evaluation supports model editing, data inspection, Parse, Simulate, Fit
 
 ## Install and run
 
+[Download and installation guide](https://interdisciplinary.team/gtgcell-studio/download.html).
+
 1. Download **GTG.Cell.Studio.Installer.exe** from the [current release](https://github.com/poshtkohi/gtgcell-studio/releases/tag/v0.8.13).
 2. Run the installer normally, enter your issued key and check the access level shown. The per-user installation does not request administrator rights.
 3. Open **GTG Cell Studio** and **Examples** from the Start menu folder. Open the supplied small example, then choose **Parse** followed by **Simulate**.
 
 The package includes its compiler, build tools, runtime dependencies, PDF support and examples. No separate MATLAB, compiler or TeX installation is needed for the supplied workflows.
 
-**Installer targets:** Windows 10 version 1809/build 17763 or later, x64; Windows 11 x64. Allow about 3 GB plus space for projects and results. No Linux, macOS, 32-bit Windows or native ARM64 package is supplied. An independent fresh Windows 10 VM check remains pending.
+**Installer targets:** Windows 10 version 1809/build 17763 or later, x64; Windows 11 x64. Allow about 3 GB plus space for projects and results. No Linux, macOS, 32-bit Windows or native ARM64 package is supplied.
 
 **Unsigned research release:** Windows SmartScreen may warn about this download, and organisational application policies may restrict installation. Check the published checksum and follow your organisation's software policy. Signing has not been claimed for this release.
 
@@ -36,10 +38,10 @@ Keep your projects outside the application directory. Updates preserve existing 
 
 ## Verify the installer
 
-Version **0.8.13** · **412,603,296 bytes** · SHA-256:
+Version **0.8.13** · **412,689,312 bytes** · SHA-256:
 
 ```text
-E5AAFB10EB08ACE90CC5823C49FDCEAE64E5C2E1A671423D0C0C8D2F59227BDA
+B60B07D2AD029C75E05260F59E028F6EBA232D8513D41612730E3690584ED97B
 ```
 
 The release's [SHA256SUMS.txt](https://github.com/poshtkohi/gtgcell-studio/releases/download/v0.8.13/SHA256SUMS.txt) lists the checksums of its downloadable assets.
@@ -62,4 +64,4 @@ GitHub also automatically supplies archives labelled **Source code** for release
 
 Please direct questions about GTG Cell Studio and installation access to **Dr Alireza Poshtkohi** at [a.poshtkohi@herts.ac.uk](mailto:a.poshtkohi@herts.ac.uk).
 
-Copyright © 2026 GTG Cell Team. [www.gtgcell.com](https://www.gtgcell.com)
+Copyright © 2026 Alireza Poshtkohi, Mark L Dallas and Moza Al-Owais. [www.gtgcell.com](https://www.gtgcell.com)
